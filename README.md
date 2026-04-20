@@ -18,7 +18,6 @@ Table 1. Sixteen possible AP patterns in Seoul Korean
 
 References
 
-National Information Society Agency. 2022. Broadcasting content conversational data. https://aihub.or.kr/aihubdata/
-data/view.do?dataSetSn=71557.
+National Information Society Agency. 2022. Broadcasting content conversational data. https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71557.
 
 Sun-Ah Jun. 2000. K-tobi (korean tobi) labelling conventions. UCLA working papers in phonetics, 99:149–173.
