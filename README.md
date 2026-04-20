@@ -21,3 +21,6 @@ References
 National Information Society Agency. 2022. Broadcasting content conversational data. https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71557.
 
 Sun-Ah Jun. 2000. K-tobi (korean tobi) labelling conventions. UCLA working papers in phonetics, 99:149–173.
+
+
+Data download: https://drive.google.com/drive/u/1/folders/1ilMrCCfJWLPNpdvGkOtD0k4DLWF41YD7
